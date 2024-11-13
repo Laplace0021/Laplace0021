@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laplace0021
-- 👀 I’m interested in game dev
+- 👀 I’m interested in game dev and software engineering
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me? you can DM me on instagram @djibriel.002
